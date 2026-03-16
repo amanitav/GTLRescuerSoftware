@@ -26,8 +26,8 @@ Not (Önemli): kodunuzu çalıştırdığınızda sadece uydu görüntüleri kı
 ### Proje Ekran Görüntüleri
 
 **Afet Haritası:**
-![Afet Haritası]([Afet Haritası](https://github.com/amanitav/GTLRescuerSoftware/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-16%20180119.png))
+([Afet Haritası](https://github.com/amanitav/GTLRescuerSoftware/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-16%20180119.png))
 
 **İşlenmiş Harita (Enkaz Tespiti):**
-![İşlenmiş Harita]([İşlenmiş Harita](https://github.com/amanitav/GTLRescuerSoftware/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-16%20180137.png))
+([İşlenmiş Harita](https://github.com/amanitav/GTLRescuerSoftware/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-16%20180137.png))
 
