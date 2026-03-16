@@ -31,3 +31,5 @@ Not (Önemli): kodunuzu çalıştırdığınızda sadece uydu görüntüleri kı
 **İşlenmiş Harita (Enkaz Tespiti):**
 ([İşlenmiş Harita](https://github.com/amanitav/GTLRescuerSoftware/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-16%20180137.png))
 
+## Geliştirme Süreci Hakkında Bilgilendirme
+Projemiz aktif bir geliştirme sürecindedir. Şu an GitHub üzerinden paylaşılan model, 20 epochluk bir eğitim aşamasından elde edilen öncelikli prototip verileridir. Ekibimiz, enkaz tespitindeki doğruluk payını (accuracy) maksimize etmek adına eğitim ve optimizasyon çalışmalarına devam etmektedir.
