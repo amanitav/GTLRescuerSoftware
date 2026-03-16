@@ -15,7 +15,7 @@ Afet sonrası hızlı ve doğru karar alma süreçlerini desteklemek adına;
 - **Veri Analitiği:** Tespit edilen enkazların anlık istatistiksel raporlanması, afet ekiplerine sunulması
 
 ---
-*Projemizin detaylarını incelemek isterseniz kodlarımızı inceleyebilirsiniz.*
+*Projemizin detaylarını incelemek isterseniz aşağıdaki adımları inceleyebilirsiniz.*
 
 ## Projeyi Nasıl Çalıştırırım?
 1. Afet_Analiz_Sistemi.py dosyasını bulun ve Bilgisiyarınıza kodları kopyalayın.
