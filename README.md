@@ -1,19 +1,6 @@
-# GTLRescuerSoftware
-Official project repo regarding post-disaster real time CV UAV built to provide valuable information to first aiders and public.
+# GTLYazılım
+Amacımız afet ekiplerinin deprem sonrasında İhalarımız ile çektiğimiz fotoğrafları işleyip haritaya dönüştürmek.
+Bu sayede afet ekipleri planlamalarını bu haritalara göre yapacak ve daha planlı, daha koordineli bir şekilde ilerleyebilecektir.
+Bizde bu takımın yazılım ekibi olarak çalışmaları sergileyebileceğimiz ve diğer insanlara ilham kaynağı olabileceğimiz bir github açtık.
 
-# UAV Disaster Mapping
 
-This project uses UAV imagery and computer vision to estimate:
-- Destruction ratio
-- People in need
-
-Results are displayed on a map using GeoJSON.
-
-## Tech Stack
-- Python (Computer Vision)
-- Flask (Backend API)
-- GeoJSON (Spatial data)
-- Mobile map app
-
-## Disclaimer
-For research and educational use only.
