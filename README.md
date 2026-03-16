@@ -26,7 +26,7 @@ Not (Önemli): kodunuzu çalıştırdığınızda sadece uydu görüntüleri kı
 ### Proje Ekran Görüntüleri
 
 **Afet Haritası:**
-![Afet Haritası](Afet_Haritasi.png)
+![Afet Haritası](Ekran görüntüsü 2026-03-16 180119.png)
 
 **İşlenmiş Harita (Enkaz Tespiti):**
 ![İşlenmiş Harita](Enkaz_Tespit.png)
