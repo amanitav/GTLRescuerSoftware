@@ -18,7 +18,7 @@ Afet sonrası hızlı ve doğru karar alma süreçlerini desteklemek adına;
 *Projemizin detaylarını incelemek isterseniz aşağıdaki adımları inceleyebilirsiniz.*
 
 ## Projeyi Nasıl Çalıştırırım?
-1. Afet_Analiz_Sistemi.py dosyasını bulun ve Bilgisiyarınıza kodları kopyalayın.
+1. [Afet_Analiz_Sistemi.py dosyasını bulun](https://github.com/amanitav/GTLRescuerSoftware/blob/main/Afet_Analiz_Sistemi.py) bu linke girin ve Python IDE'nize kodları kopyalayın.
 2. Gerekli kütüphaneleri yükleyin: `pip install ultralytics streamlit folium streamlit-folium opencv-python`
 3. Terminale şu kodu yazın: `streamlit run Afet_Analiz_Sistemi.py`
 
