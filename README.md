@@ -1,6 +1,19 @@
-# GTLYazılım
-Amacımız afet ekiplerinin deprem sonrasında İhalarımız ile çektiğimiz fotoğrafları işleyip haritaya dönüştürmek.
-Bu sayede afet ekipleri planlamalarını bu haritalara göre yapacak ve daha planlı, daha koordineli bir şekilde ilerleyebilecektir.
-Bizde bu takımın yazılım ekibi olarak çalışmaları sergileyebileceğimiz ve diğer insanlara ilham kaynağı olabileceğimiz bir github açtık.
+# GTLYazılım: Afet Bölgesi Analiz ve Haritalama Sistemi
 
+Afet ekiplerinin deprem sonrasında İHA'lar ile elde edilen ham görüntüleri işleyerek, anlamlı ve coğrafi bir harita katmanına dönüştüren bir yazılım çözümüdür.
+
+## Vizyonumuz
+Afet sonrası hızlı ve doğru karar alma süreçlerini desteklemek adına;
+- **Koordinasyon:** Ekiplerin planlı ilerlemesini sağlamak.
+- **Hız:** Enkaz tespiti ve bölge analizini yapay zeka ile otomatikleştirmek.
+- **Şeffaflık:** İşlenen verileri etkileşimli haritalar üzerinden sahadaki ekiplere sunmak.
+
+## 🛠 Proje Özellikleri
+- **Enkaz Tespiti:** Kendi oluşturduğumuz 41 bin fotoğraflı özgün datasetimiz ile yolov8m modelini eğittik ortaya çıkan modeli enkaz tespitinde kullandık
+- **Akıllı Haritalama:** Rasperry pi ile çektiğimiz fotoğrafların koordinat verilerine dayalı, birleştirilmiş mozaik harita katmanları.
+- **Arayüz:** Streamlit tabanlı interaktif kontrol paneli ve geliştireceğimiz mobil intrnetsiz uygulamamız.
+- **Veri Analitiği:** Tespit edilen enkazların anlık istatistiksel raporlanması, afet ekiplerine sunulması
+
+---
+*Projemizin detaylarını incelemek isterseniz kodlarımızı inceleyebilirsiniz.*
 
