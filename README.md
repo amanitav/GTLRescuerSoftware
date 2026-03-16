@@ -23,3 +23,11 @@ Afet sonrası hızlı ve doğru karar alma süreçlerini desteklemek adına;
 3. Terminale şu kodu yazın: `streamlit run sizin o anki dosya adınız.py`
 Not (Önemli): kodunuzu çalıştırdığınızda sadece uydu görüntüleri kısmını çalıştırabileceksiniz diğer yerlerde hata verecek çünkü hem fotoğraflar sizde yok hem de koddaki yolo modelimiz sizde yok ve maalesefki modelimizi sizinle paylaşamayız ama bunu telafi olarak size diğer afet haritası ve işlenmiş harita sekmelerinin fotoğrafını githuba yükledik oradan bakabilirsiniz
 
+### Proje Ekran Görüntüleri
+
+**Afet Haritası:**
+![Afet Haritası](Afet_Haritasi.png)
+
+**İşlenmiş Harita (Enkaz Tespiti):**
+![İşlenmiş Harita](Enkaz_Tespit.png)
+
