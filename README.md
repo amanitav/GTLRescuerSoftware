@@ -18,7 +18,9 @@ Afet sonrası hızlı ve doğru karar alma süreçlerini desteklemek adına;
 *Projemizin detaylarını incelemek isterseniz aşağıdaki adımları inceleyebilirsiniz.*
 
 ## Projeyi Nasıl Çalıştırırım?
-1. [Afet_Analiz_Sistemi.py dosyasını bulun](https://github.com/amanitav/GTLRescuerSoftware/blob/main/Afet_Analiz_Sistemi.py) bu linke girin ve Python IDE'nize kodları kopyalayın.
+1. [Afet_Analiz_Sistemi.py dosyasını bulun](https://github.com/amanitav/GTLRescuerSoftware/blob/main/Afet_Analiz_Sistemi.py) bu linke girin ve Pycharm'ınıza kodları kopyalayın.
 2. Gerekli kütüphaneleri yükleyin: `pip install ultralytics streamlit folium streamlit-folium opencv-python`
-3. Terminale şu kodu yazın: `streamlit run Afet_Analiz_Sistemi.py`
+3. Terminale şu kodu yazın: `streamlit run sizin o anki dosya adınız.py`
+Not (Önemli): kodunuzu çalıştırdığınızda sadece uydu görüntüleri kısmını çalıştırabileceksiniz diğer yerlerde hata verecek çünkü koddaki yolo modelimiz sizde yok
+ve maalesefki modelimizi sizinle paylaşamayız ama bunu telafi olarak size diğer afet haritası ve işlenmiş harita sekmelerinin fotoğrafını githuba yükledik oradan bakabilirsiniz
 
