@@ -1,4 +1,4 @@
-# GTL - HÜMA TEKNOFEST LİSELEARARSI İHA 2026 GOKTURKS LEGACY takımı
+# GTL - HÜMA TEKNOFEST LİSELEARARSI İHA 2026 
 
 Hüma, afet sonrası ilk yardım ekiplerine ve afet yönetim çalışmalarına güvenilir, faydalı
 coğrafi tabanlı veri sunmayı amaçlayan otonom görev sistemidir. İHA, belirlenen rota
