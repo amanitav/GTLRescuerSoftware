@@ -67,4 +67,5 @@ HÜMA Hardware: Our Hardware Schematic
 
 R&D and CONTACT
 Our project is in active development and we value your feedback. If you would like to provide financial or technical support, you can contact us.
-CONTACT:
+CONTACT: gokturkslegacy@gmail.com
+
